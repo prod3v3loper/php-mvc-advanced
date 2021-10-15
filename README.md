@@ -13,7 +13,7 @@ This one should not use in a real environment but unfortunately there is also so
 
 # Contribute
 
-Please an [issue](https://github.com/prod3v3loper/php-mvc-beginner/issues) if you
+Please an [issue](https://github.com/prod3v3loper/php-mvc-advanced/issues) if you
 think something could be improved. Please submit Pull Requests when ever
 possible.
 
