@@ -2,10 +2,12 @@
 
 Model View Controller for Advanced users to bring the way closer.
 
-This MVC has a good structure, but you still have to implement the validation yourself in the controller. 
-However, one can also automate the validation since we represent a database table with each of our models and we can also write a validation. 
+This MVC has a good structure, but you still have to implement the validation yourself in the controller.
+However, one can also automate the validation since we represent a database table with each of our models and we can also write a validation.
 
-But more about it in the PHP MVC Professional can find here in the near future.
+But more about it in the PHP MVC Professional:
+
+https://github.com/prod3v3loper/php-mvc-professional
 
 # Attention
 
@@ -19,7 +21,7 @@ possible.
 
 # Authors
 
-**[Samet Tarim](https://www.prod3v3loper.com)** - *All works*
+**[Samet Tarim](https://www.prod3v3loper.com)** - _All works_
 
 # Supporter
 
