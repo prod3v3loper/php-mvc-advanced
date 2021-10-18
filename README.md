@@ -25,7 +25,6 @@ possible.
 
 # Supporter
 
-[Tnado](https://www.tnado.com/blog/)
 [Hyperly](https://www.hyperly.de)
 
 # License
